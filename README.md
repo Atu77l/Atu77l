@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source project.
 - 💬 Ask me about MERN Stack and CS Fundamental
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/kesharwaniatul/)
-- ![Profile views](https://gpvc.arturio.dev/[Atu77l])
+- ![Profile views](https://gpvc.arturio.dev/Atu77l)
 ]
 
