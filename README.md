@@ -1,10 +1,6 @@
 ### Hi there 👋 Atul Kesharwani here
 
 
-- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/kesharwaniatul/)
-- ![Profile views](https://gpvc.arturio.dev/Atu77l)
-
-
 
 ## About
 
