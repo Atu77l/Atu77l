@@ -1,22 +1,22 @@
 ### Hi there 👋 Atul Kesharwani here
 
-- 🔭 I’m currently working at Rampwin Technologies Private Limited
-- 🌱 I’m currently Studying in Madan Mohan Malaviya University Of Technology,Gorakhpur
-- 👯 I’m looking to collaborate on open source project.
-- 💬 Ask me about MERN Stack and CS Fundamental
-- 💬  Ask me about Data Structure and Algorithm,Competitive Coding
-- 💬  Ask me about Api Testing
+
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/kesharwaniatul/)
 - ![Profile views](https://gpvc.arturio.dev/Atu77l)
-
-
-# Hi there, I am Atul Kesharwani! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
 
 ## About
 
-I am Atul Kesharwani. I am a final-year undergraduate student at Madan Mohan Malaviya University of Technology,Gorakhpur. I am a Software Development Engineering Intern at Rampwin Technologies Private Limited,Jaipur, along with this I love to solve problems based on Data Structures and Algorithm. I also do Competitive Programming in my free time.I have a good knowledge in CS fundamental.I am good at Api testing.I am MERN developer.
+- 🔭 I’m currently working at Rampwin Technologies Private Limited
+- 🌱 I’m currently Studying in Madan Mohan Malaviya University Of Technology,Gorakhpur
+- 🌱  along with this I love to solve problems based on Data Structures and Algorithm.
+- 🌱  along with this I love to solve problems based on Data Structures and Algorithm.
+- 🌱 I also do Competitive Programming in my free time.
+- 👯 I’m looking to collaborate on open source project.
+- 💬 Ask me about MERN Stack and CS Fundamental
+- 💬  Ask me about Data Structure and Algorithm,Competitive Coding
+- 💬  Ask me about Api Testing
 
 <table>
   <tr>
