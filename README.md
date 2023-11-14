@@ -3,8 +3,8 @@
 
 
 ## About
-
-- 🔭 I’m currently working at Rampwin Technologies Private Limited
+- 🔭 Currently,I am working as a full Stack Developer Position.
+- 🔭 I have worked as Software Developer Intern at Rampwin Technologies Private Limited
 - 🌱 I’m currently Studying in Madan Mohan Malaviya University Of Technology,Gorakhpur
 - 🌱  along with this I love to solve problems based on Data Structures and Algorithm.
 - 🌱  along with this I love to solve problems based on Data Structures and Algorithm.
