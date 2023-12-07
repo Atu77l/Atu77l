@@ -34,13 +34,13 @@
 >Git, GitHub & GitLab
 
 ### Languages
->C++, Python, Dart, HTML, CSS, and JavaScript
+>C++, Python, HTML, CSS, JavaScript and TypeScript
 
 ### Fontend Development
-> React
+> React,NextJs
 
 ### Backend Development
-> Node Js and Java
+> Node,Flask,SpringBoot
 
 ### DataBase
 > MySql, FireStore and MongoDB
