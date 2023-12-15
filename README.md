@@ -44,7 +44,7 @@
 
 ### DataBase
 > MySql, FireStore and MongoDB
-<!-- 
+
 ### Cloud
 >AWS EC2,IAM and S3
 
